@@ -1,7 +1,7 @@
 .OTTER_LOG
 
 # Ignore data
-data/Spill_Incidents_20261027.csv
+data/Spill_Incidents_20261104.csv
 data/tl_2026_us_county/
 
 # Byte-compiled / optimized / DLL files
